@@ -5,7 +5,6 @@ import PartnerSection from "../../components/PartnerSection";
 const PricingPage = () => {
   return (
     <>
-      <Breadcrumb />
       {/* pricing */}
       <div className="section">
         <div className="container">
