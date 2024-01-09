@@ -4,7 +4,6 @@ import Breadcrumb from "../../components/Breadcrumb";
 const MovieDetailPage = () => {
   return (
     <>
-      <Breadcrumb />
       {/* details */}
       <section className="section details">
         {/* details background */}

@@ -4,7 +4,6 @@ import Breadcrumb from "../../components/Breadcrumb";
 const MoviesPage = () => {
   return (
     <div>
-      <Breadcrumb />
       {/* filter */}
       <div className="filter">
         <div className="container">

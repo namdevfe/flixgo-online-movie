@@ -4,7 +4,6 @@ import Breadcrumb from "../../components/Breadcrumb";
 const AboutPage = () => {
   return (
     <div>
-      <Breadcrumb />
       {/* about */}
       <section className="section">
         <div className="container">
